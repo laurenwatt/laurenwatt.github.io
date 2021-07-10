@@ -1,0 +1,13 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	width: 100ww;
+	height: auto;
+}
+.header{
+	width: 80ww;
+	height: 120px;
+	margin: 2% auto;
+}
